@@ -7,8 +7,8 @@ If you have any suggestions for me, you can contact me on my [LinkedIn page](htt
 
 I will be, slowly, populating my site with content around the following areas;
 
-Running
-Baking
-Cooking
-Sewing
+- Running
+- Baking
+- Cooking
+- Sewing
 
